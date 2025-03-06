@@ -1,11 +1,11 @@
-<h1 align="center">Meu Portifólio do Curso Mfx Academy </h1>
+<h1 align="center">Meu Portfólio do Curso Mfx Academy </h1>
 <br>
 <img src= "https://github.com/BrunoDutra91/My-Portifolio-Mfx/blob/master/img/Captura%20de%20tela%202025-03-05%20235801.png?raw=true" /> 
 <br>
 <br>
 
 
-<h3> Este é meu primeiro Portifólio criado no curso de Full-stack da escola Mfx Aademy.
+<h3> Este é meu primeiro Portfólio criado no curso de Full-stack da escola Mfx Aademy.
 <br>
 <br>
 
